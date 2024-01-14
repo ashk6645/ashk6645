@@ -1,146 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi <img align ="center" src="data:image/jpeg;base64,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"> I'm Ashutosh</h1>
+<h3 align="center">I am working on problem solving skills and web development technologies.</h3>
+<img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+- 🔭 I’m currently working on **Portfolio Builder**
+- 🌱 I’m currently learning **Java and Web Development**
+- 👯 I’m ready to collaborate on **Dynamic projects**
+- 📫 Reach me at **ashk6645@gmail.com**
+- ⚡ Fun fact **serious FUN**
 
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-        }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-pratap-singh-614083164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-pratap-singh-614083164/" height="30" width="40" /></a>
+<a href="https://leetcode.com/ashu6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashu6645/" height="30" width="40" /></a>
+</p>
 
-        section {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-        img.profile-img {
-            border-radius: 50%;
-            max-width: 150px;
-            margin: 20px auto;
-            display: block;
-        }
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashk6645&show_icons=true&locale=en&layout=compact" alt="ashk6645" /></p>
 
-        h1 {
-            color: #333;
-        }
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&locale=en" alt="ashk6645" /></p>
 
-        h3 {
-            color: #555;
-        }
-
-        .connect-icons {
-            display: flex;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .connect-icons a {
-            margin: 0 10px;
-            color: #333;
-            text-decoration: none;
-            font-size: 24px;
-        }
-
-        .languages-tools {
-            display: flex;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-
-        .languages-tools img {
-            width: 40px;
-            height: 40px;
-            margin: 5px;
-        }
-
-        .stats {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-
-        .stats div {
-            text-align: center;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-
-<body>
-
-    <header>
-        <h1>Hi <img src="your-profile-image-url" alt="profile-img" class="profile-img"> I'm Ashutosh</h1>
-        <h3>I am working on problem-solving skills and web development technologies.</h3>
-    </header>
-
-    <section>
-        <img align="right" alt="coding" width="400" src="your-coding-image-url">
-
-        <p>🔭 I’m currently working on <strong>Portfolio Builder</strong></p>
-        <p>🌱 I’m currently learning <strong>Java and Web Development</strong></p>
-        <p>👯 I’m ready to collaborate on <strong>Dynamic projects</strong></p>
-        <p>📫 Reach me at <strong>ashk6645@gmail.com</strong></p>
-        <p>⚡ Fun fact: <strong>serious FUN</strong></p>
-
-        <h3>Connect with me:</h3>
-        <div class="connect-icons">
-            <a href="https://linkedin.com/in/your-linkedin" target="blank">&#8286;</a>
-            <a href="https://leetcode.com/your-leetcode" target="blank">&#8490;</a>
-        </div>
-
-        <h3>Languages and Tools:</h3>
-        <div class="languages-tools">
-            <!-- Add your images for languages and tools -->
-            <img src="your-image-url" alt="language-or-tool">
-            <!-- Add more images as needed -->
-        </div>
-
-        <h3>GitHub Stats:</h3>
-        <div class="stats">
-            <div>
-                <strong>Repositories</strong>
-                <p>10</p>
-            </div>
-            <div>
-                <strong>Followers</strong>
-                <p>100</p>
-            </div>
-            <div>
-                <strong>Following</strong>
-                <p>50</p>
-            </div>
-        </div>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 - Ashutosh</p>
-    </footer>
-
-</body>
-
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashk6645&" alt="ashk6645" /></p>
