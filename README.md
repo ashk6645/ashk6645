@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align ="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhand-waving-gifs&psig=AOvVaw0-zcNcUmUewxN-gpPXFD7r&ust=1705341812725000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCdgfO73YMDFQAAAAAdAAAAABAD"> I'm Ashutosh</h1>
+<h1 align="center">Hi <img align ="center" src="https://media.tenor.com/oqXocliEYAMAAAAj/hello-yellow.gif"> I'm Ashutosh</h1>
 <h3 align="center">I am working on problem solving skills and web development technologies.</h3>
 <img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1ELrrQz75X7oOtdxxsu1xZ&ust=1705341891296000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDxsuK73YMDFQAAAAAdAAAAABAE"
 
