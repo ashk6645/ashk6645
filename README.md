@@ -1,4 +1,5 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ashk6645/ashk6645/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+<img alt = "snack" src="https://github.com/ashk6645/ashk6645/blob/output/github-contribution-grid-snake.gif"/>
 <h1 align="center">Hi <img align ="center" src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width = "100" height = "100"> I'm Ashutosh</h1>
 
 <h3 align="center">I am working on problem solving skills and web development technologies.</h3>
