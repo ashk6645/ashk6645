@@ -1,5 +1,5 @@
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ashk6645/ashk6645/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-<img alt = "snack" src="https://github.com/ashk6645/ashk6645/blob/output/github-contribution-grid-snake.gif"/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ashk6645/ashk6645/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />[
+<img alt = "snack" src="https://github.com/ashk6645/ashk6645/blob/output/github-contribution-grid-snake.gif"/>](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)
 <h1 align="center">Hi <img align ="center" src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width = "100" height = "100"> I'm Ashutosh</h1>
 
 <h3 align="center">I am working on problem solving skills and web development technologies.</h3>
