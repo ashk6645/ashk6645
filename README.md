@@ -1,4 +1,4 @@
-<img = "s" src = "https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+<img alt = "s" src = "https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"
 <h1 align="center">Hi <img align ="center" src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width = "100" height = "100"> I'm Ashutosh</h1>
 
 <h3 align="center">I am working on problem solving skills and web development technologies.</h3>
