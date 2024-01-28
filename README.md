@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ashishps1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ashk6645/">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw0AZIm7CCVXwd4gjH_kPyU0&ust=1706535956980000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiLgpGcgIQDFQAAAAAdAAAAABAD)"/>
   </a>  
   <a href="https://leetcode.com/ashu6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashu6645/" height="30" width="40" /></a>
 </p>
