@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning **Java and Web Development**
 - 👯 I’m ready to collaborate on **Dynamic projects**
 - 📫 Reach me at **ashk6645@gmail.com**
-- ⚡ Fun fact **serious FUN**
+- ⚡ Fun fact **ALWAYS FUN**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-pratap-singh-614083164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-pratap-singh-614083164/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashk6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-pratap-singh-614083164/" height="30" width="40" /></a>
 <a href="https://leetcode.com/ashu6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashu6645/" height="30" width="40" /></a>
 </p>
 
