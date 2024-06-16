@@ -57,10 +57,22 @@
 </table>
 <br>
 
-  
 
+<h1 align="center"> GitHub Overview </h1>
+<br>
+<table>
+<tr>
+<td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashk6645&show_icons=true&locale=en&layout=compact" alt="ashk6645" />
-
+<td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&locale=en" alt="ashk6645" />
-
+</td>
+</tr>
+</table>
+ <br>
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashk6645&" alt="ashk6645" />
+</p>
+<br>
+
+
