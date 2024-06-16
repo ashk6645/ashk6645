@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Java and Fullstack Development**
 - 👯 I’m ready to collaborate on **Dynamic projects**
 - 📫 Reach me at **ashk6645@gmail.com**
-- ⚡ Fun fact **ALWAYS FUN**
+- ⚡ Fun fact **“Hello World” never gets old.**
 
 
 <h3 align="left">Connect with me:</h3>
