@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ashk6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashk6645/" height="30" width="40" /></a> 
   <a href="https://leetcode.com/ashu6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashu6645/" height="30" width="40" /></a>
+  <a href="https://ashk6645.github.io/" target="blank"><img align="center" src="https://marketplace.canva.com/EAE7NV6FiZQ/1/0/1600w/canva-luxury-letter-a-logo-design-for-business-or-online-shop-qJ4llYpXD6w.jpg" alt="https://ashu6645.github.io/" height="30" width="40" /></a>
 </p>
 
 <h1 align="center"> My Skill Set </h1>
