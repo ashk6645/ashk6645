@@ -28,8 +28,7 @@
 </tr>
 <tr>
 <td style="text-align:center">Frameworks</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  <img src="https://spring.io/projects/spring-boot logoColor=white"></td>
- 
+<td style="text-align:center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </td>
 </tr>
 <tr>
 <td style="text-align:center">Database</td>
