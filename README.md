@@ -3,7 +3,7 @@
 <h3 align="center">I am working on problem solving skills and web development technologies.</h3>
 
 
-- 🔭 I’m currently working on **Portfolio Builder**
+- 🔭 <a href="https://ashk6645.github.io/">Visit my portfolio</a>
 - 🌱 I’m currently learning **Java and Fullstack Development**
 - 👯 I’m ready to collaborate on **Dynamic projects**
 - 📫 Reach me at **ashk6645@gmail.com**
