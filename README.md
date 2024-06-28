@@ -28,7 +28,9 @@
 </tr>
 <tr>
 <td style="text-align:center">Frameworks</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<td style="text-align:center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/spring%20boot-green?style=for-the-badge&logo=springboot&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </td>
 </tr>
 <tr>
@@ -38,7 +40,11 @@
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-yellow?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto">
+</td>
 
 </tr>
 <tr>
