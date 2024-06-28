@@ -44,8 +44,8 @@
 <tr>
 <td style="text-align:center">Coding</td>
 <td style="text-align:center"><a href="https://leetcode.com/u/ashu6645/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/ashk6645/"><img src="https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks
-"></a>
+<a href="https://www.geeksforgeeks.org/user/ashk6645/"><img src="https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=green"
+></a>
 <a href="https://www.codechef.com/users/singh_rk"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
 </td>
 
