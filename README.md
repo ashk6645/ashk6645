@@ -29,6 +29,7 @@
 <tr>
 <td style="text-align:center">Frameworks</td>
 <td style="text-align:center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=white&logoSize=auto&labelColor=black&color=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-green?style=for-the-badge&logo=springboot&logoColor=white">
 </td>
