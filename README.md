@@ -1,6 +1,4 @@
-<h1 align="center">Hi there<img align ="center" src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width = "100" height = "100">,Welcome to my Github page!</h1>
-
-
+<h1 align="center">Hi there, Welcome to my Github page!</h1>
 
 - 🔭 <a href="https://ashk6645.github.io/">Visit my portfolio</a>
 - 🤝 Always excited to work on **Dynamic & Innovative Projects**
