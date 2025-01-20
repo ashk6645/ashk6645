@@ -3,7 +3,7 @@
 - 🔭 <a href="https://ashk6645.github.io/">Visit my portfolio</a>
 - 🤝 Always excited to work on **Dynamic & Innovative Projects**
 - 📫 Reach me at **ashk6645@gmail.com**
-- ⚡ Fun fact **“Hello World” never gets old.**
+- ⚡ Fun fact: **“Hello World” never gets old.**
 
 
 <h3 align="left">Connect with me:</h3>
