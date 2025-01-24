@@ -74,7 +74,7 @@
 </table>
  <br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashk6645&" alt="ashk6645" />
+<img align="center" src="https://streak-stats.demolab.com/?user=ashk6645" />
 </p>
 <br>
 
