@@ -2,7 +2,7 @@
 
 - 🤝 Always excited to work on **Dynamic & Innovative Projects**
 - 📫 Reach me at **ashk6645@gmail.com**
-- ⚡ Fun fact: **“Hello World” never gets old.**
+- ⚡ Fun fact: **“I selectively keep some personal projects private on GitHub.**
 
 
 <h3 align="left">Connect with me:</h3>
