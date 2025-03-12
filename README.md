@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashk6645/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashk6645/" height="30" width="40" /></a> 
-  <a href="https://ashk6645.vercel.app/" target="blank"><img align="center" src="https://dcassetcdn.com/profile_pics/121488/df75b3fb-10dd-401d-b400-21f7b8186bfc.png" alt="https://ashu6645.github.io/" height="30" width="40" /></a> 
+  <a href="https://ashk.vercel.app/" target="blank"><img align="center" src="https://dcassetcdn.com/profile_pics/121488/df75b3fb-10dd-401d-b400-21f7b8186bfc.png" alt="https://ashu6645.github.io/" height="30" width="40" /></a> 
 </p>
 
 <h1 align="center"> My Skill Set </h1>
