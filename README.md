@@ -57,9 +57,14 @@
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&locale=en" alt="ashk6645" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&locale=en&rank_icon=github" 
+       alt="ashk6645" />
+</td>
 <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashk6645&show_icons=true&locale=en&layout=compact" alt="ashk6645" />
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=ashk6645&show_icons=true&locale=en&layout=compact" 
+       alt="ashk6645" />
 </td>
 </tr>
 </table>
