@@ -11,7 +11,7 @@
   <a href="https://ashk.vercel.app/" target="blank"><img align="center" src="https://dcassetcdn.com/profile_pics/121488/df75b3fb-10dd-401d-b400-21f7b8186bfc.png" alt="https://ashu6645.github.io/" height="30" width="40" /></a> 
 </p>
 
-<h1 align="center"> My Skill Set </h1>
+<!-- <h1 align="center"> My Skill Set </h1>
 <br>
 <table align="center">
 <tbody>
@@ -49,7 +49,7 @@
 </tr>
 </tbody>
 </table>
-<br>
+<br> -->
 
 
 <h1 align="center"> GitHub Overview </h1>
