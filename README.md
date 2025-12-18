@@ -52,22 +52,20 @@
 <br> -->
 
 
-<h1 align="center"> GitHub Overview </h1>
-<br>
-<table>
-<tr>
-<td>
-  <img align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=ashk6645"
-       alt="ashk6645" />
-</td>
-<td>
-  <img align="left" 
-       src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=ashk6645&show_icons=true&locale=en&layout=compact" 
-       alt="ashk6645" />
-</td>
-</tr>
-</table>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashk6645&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top languages"
+  />
+</p>
+
 
  <br>
 <!-- <p align="center">
