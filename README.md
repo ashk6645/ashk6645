@@ -58,7 +58,7 @@
 <tr>
 <td>
   <img align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=ashk6645"
        alt="ashk6645" />
 </td>
 <td>
