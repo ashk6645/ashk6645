@@ -1,24 +1,27 @@
-<svg width="720" height="200" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
   <!-- Background -->
-  <rect
-    x="1"
-    y="1"
-    width="718"
-    height="198"
-    rx="12"
-    fill="#f9fafb"
-    stroke="#e5e7eb"
-  />
+  <rect x="0" y="0" width="960" height="320" rx="20" fill="#f9fafb" stroke="#e5e7eb"/>
 
-  <!-- Text -->
-  <g font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
-     font-size="14"
-     fill="#111827">
+  <!-- Title -->
+  <text x="480" y="48"
+        text-anchor="middle"
+        font-size="26"
+        font-weight="600"
+        fill="#111827"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+    Hello World! Welcome to my GitHub
+  </text>
 
-    <text x="24" y="40">💻 Full-Stack Developer | React • Next.js • Node.js</text>
-    <text x="24" y="75">🌍 Open-source contributor</text>
-    <text x="24" y="110">🛠️ Building scalable, user-focused web applications</text>
-    <text x="24" y="145">⚡ I selectively keep some projects private on GitHub</text>
+  <!-- Divider -->
+  <line x1="80" y1="70" x2="880" y2="70" stroke="#e5e7eb"/>
 
+  <!-- Content -->
+  <g font-size="16"
+     fill="#1f2937"
+     font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+    <text x="120" y="120">💻 Full-Stack Developer | React • Next.js • Node.js</text>
+    <text x="120" y="160">🌍 Open-source contributor</text>
+    <text x="120" y="200">🛠️ Building scalable, user-focused web applications</text>
+    <text x="120" y="240">⚡ I selectively keep some projects private on GitHub</text>
   </g>
 </svg>
