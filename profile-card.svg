@@ -1,24 +1,50 @@
-<svg width="720" height="200" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f9fafb"/>
+      <stop offset="100%" stop-color="#f3f4f6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card -->
   <rect
     x="1"
     y="1"
-    width="718"
-    height="198"
-    rx="12"
-    fill="#f9fafb"
+    width="898"
+    height="258"
+    rx="18"
+    fill="url(#bg)"
     stroke="#e5e7eb"
   />
 
-  <!-- Text -->
-  <g font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
-     font-size="14"
-     fill="#111827">
+  <!-- Title -->
+  <text
+    x="450"
+    y="42"
+    text-anchor="middle"
+    font-size="24"
+    font-weight="600"
+    fill="#111827"
+    font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif"
+  >
+    👋 Hello World! Welcome to my GitHub
+  </text>
 
-    <text x="24" y="40">💻 Full-Stack Developer | React • Next.js • Node.js</text>
-    <text x="24" y="75">🌍 Open-source contributor</text>
-    <text x="24" y="110">🛠️ Building scalable, user-focused web applications</text>
-    <text x="24" y="145">⚡ I selectively keep some projects private on GitHub</text>
+  <!-- Divider -->
+  <line x1="60" y1="62" x2="840" y2="62" stroke="#e5e7eb" />
 
+  <!-- Content -->
+  <g
+    font-size="15"
+    fill="#1f2937"
+    font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif"
+  >
+    <text x="80" y="100">💻 Full-Stack Developer | React • Next.js • Node.js</text>
+    <text x="80" y="135">🌍 Open-source contributor</text>
+    <text x="80" y="170">🛠️ Building scalable, user-focused web applications</text>
+    <text x="80" y="205">⚡ I selectively keep some projects private on GitHub</text>
   </g>
+
+  <!-- Accent bar -->
+  <rect x="1" y="230" width="898" height="28" rx="0 0 18 18" fill="#e5e7eb" />
 </svg>
