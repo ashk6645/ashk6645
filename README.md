@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ashk6645/" target="_blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png"
       height="30"
       width="40"
     />
