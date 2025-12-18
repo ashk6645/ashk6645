@@ -1,9 +1,8 @@
-
-<h1 align="center">Hello World! Welcome to my GitHub</h1>
-
 <p align="center">
   <img src="./profile-card.svg" alt="Profile Card" />
+
 </p>
+
 
 
 <p align="center">
