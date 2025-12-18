@@ -1,9 +1,13 @@
 <svg width="960" height="360" viewBox="0 0 960 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background gradient -->
+    <!-- Animated background gradient -->
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f9fafb"/>
-      <stop offset="100%" stop-color="#eef2f7"/>
+      <stop offset="0%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#3b82f6;#06b6d4" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3b82f6">
+        <animate attributeName="stop-color" values="#3b82f6;#06b6d4;#3b82f6" dur="8s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
 
     <!-- Soft shadow -->
@@ -22,9 +26,12 @@
      opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.9s" fill="freeze"/>
 
-    <!-- Title -->
+    <!-- Title with typing effect -->
     <text x="480" y="70" text-anchor="middle" font-size="28" font-weight="600">
-      👋 Hello World! Welcome to my GitHub
+      <tspan textLength="0">
+        <animate attributeName="textLength" from="0" to="420" dur="3s" fill="freeze"/>
+        👋 Hello World! Welcome to my GitHub
+      </tspan>
     </text>
 
     <!-- Divider -->
@@ -74,6 +81,22 @@
     </g>
   </g>
 
-  <!-- Accent bar -->
-  <rect x="20" y="320" width="920" height="20" rx="0 0 22 22" fill="#e5e7eb"/>
+  <!-- Floating tech particles -->
+  <circle cx="80" cy="80" r="6" fill="#3b82f6">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 10 -10; 0 0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="860" y="60" width="10" height="10" fill="#06b6d4">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -12 8; 0 0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="200" cy="300" r="5" fill="#0ea5e9">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -15; 0 0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Accent bar with pulsing animation -->
+  <rect x="20" y="320" width="920" height="20" rx="0 0 22 22" fill="#e5e7eb">
+    <animate attributeName="fill" values="#e5e7eb;#3b82f6;#e5e7eb" dur="4s" repeatCount="indefinite"/>
+  </rect>
 </svg>
