@@ -1,14 +1,6 @@
-<h1 align="center">Hello World! Welcome to my GitHub</h1>
-
-<ul>
- <li>💻 Full-Stack Developer | React • Next.js • Node.js </li>
- <li>🌍 Open-source contributor.</li>
- <li>🛠️ Building scalable, user-focused web applications.</li>
- <li>⚡ I selectively keep some projects private on GitHub</li>
-
-</ul>
-
-<br/>
+<p align="center">
+  <img src="./profile-card.svg" alt="Profile Card" />
+</p>
 
 
 <p align="center">
