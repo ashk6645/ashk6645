@@ -1,34 +1,14 @@
 <h1 align="center">Hello World! Welcome to my GitHub</h1>
 
 <ul>
-  <li>🤝 Always excited to work on <b>Dynamic & Innovative Projects</b></li>
-  <li>📫 Reach me at <b>ashk6645@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>"I selectively keep some personal projects private on GitHub"</b></li>
+ <li>💻 Full-Stack Developer | React • Next.js • Node.js </li>
+ <li>🌍 Open-source contributor.</li>
+ <li>🛠️ Building scalable, user-focused web applications.</li>
+ <li>⚡ I selectively keep some projects private on GitHub</li>
+
 </ul>
 
 <br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashk6645/" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://ashk.vercel.app/" target="_blank">
-    <img
-      align="center"
-      src="https://dcassetcdn.com/profile_pics/121488/df75b3fb-10dd-401d-b400-21f7b8186bfc.png"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
-<br/><br/>
 
 
 <p align="center">
