@@ -88,6 +88,11 @@
       <tspan fill="#0ea5e9" font-weight="600">🛠️</tspan>
       <tspan dx="12">Building scalable, user‑focused applications</tspan>
     </text>
+
+   <text x="200" y="285">
+      <tspan fill="#0ea5e9" font-weight="600">⚡</tspan>
+      <tspan dx="12">I selectively keep some projects private on GitHub</tspan>
+    </text>
   </g>
   
 
