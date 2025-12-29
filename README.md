@@ -7,14 +7,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ashk6645&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=f5f5f5"
-    height="165"
+    src="https://github-stats-pro-ivory.vercel.app/api/stats?username=ashk6645&theme=default"
+    height="185"
     alt="GitHub stats"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashk6645&layout=compact&hide_border=true&bg_color=f5f5f5"
-    height="165"
+    src="https://github-stats-pro-ivory.vercel.app/api/languages?username=ashk6645&theme=default&layout=default"
+    height="185"
     alt="Top languages"
   />
 </p>
