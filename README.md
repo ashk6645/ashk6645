@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://github-stats-pro-ivory.vercel.app/api/stats?username=ashk6645&theme=default"
+    src="https://github-stats-pro-ivory.vercel.app/api/stats?theme=default&username=ashk6645"
     height="245"
     alt="GitHub stats"
   />
