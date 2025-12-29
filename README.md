@@ -10,7 +10,7 @@
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-stats-pro-ivory.vercel.app/api/languages?username=ashk6645&theme=default&layout=default"
+    src="https://github-stats-pro-ivory.vercel.app/api/languages?username=ashk6645&theme=radical&layout=default"
     height="245"
     alt="Top languages"
   />
