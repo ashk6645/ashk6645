@@ -4,13 +4,13 @@
 
 <p align="center">
   <img
-    src="https://github-statspro.vercel.app/api/stats?theme=default&username=ashk6645"
+    src="https://github-statspro.vercel.app/api/stats?username=ashk6645&theme=custom&colors=fafafa,e3ecf2,a3b0e1,080746,1e1e7b"
     height="245"
     alt="GitHub stats"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-statspro.vercel.app/api/languages?theme=default&username=ashk6645"
+    src="https://github-statspro.vercel.app/api/languages?username=ashk6645&theme=custom&colors=fafafa,cccfd1,6473aa,090764,0a0aeb"
     height="245"
     alt="Top languages"
   />
