@@ -9,7 +9,7 @@
     alt="GitHub stats"
   />
   <img
-    src="https://github-statspro.vercel.app/api/featured?theme=custom&colors=fafafa,e3ecf2,a3b0e1,080746,1e1e7b&title=QuickAI&description=Transform+your+content+creation+with+our+suite+of+premium+AI+tools.+Write+articles%2C+generate+images%2C+and+enhance+your+workflow+in+seconds.&image=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD562DAQFSDPMXuKCwqA%2Fprofile-treasury-image-shrink_480_480%2FB56Zsdl6ldI4AM-%2F0%2F1765728039013%3Fe%3D1768726800%26v%3Dbeta%26t%3DI_Ctx2Owzc6KSlR-4XFCeLpUW6QwTEcKMB2D1KEfy1M&link=https%3A%2F%2Fquickai-ashu.vercel.app%2F&design=glass"
+    src="https://github-statspro.vercel.app/api/featured?theme=custom&colors=fafafa,e3ecf2,a3b0e1,080746,1e1e7b&design=modern&title=QuickAI&description=Transform+your+content+creation+with+our+suite+of+premium+AI+tools.+Write+articles%2C+generate+images%2C+and+enhance+your+workflow+in+seconds.&image=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD562DAQFSDPMXuKCwqA%2Fprofile-treasury-image-shrink_800_800%2FB56Zsdl6ldI4AY-%2F0%2F1765728039016%3Fe%3D1769335200%26v%3Dbeta%26t%3DnU1QfPBmuONvpGZwxOEPTmA7JxdB2Yxuk28u4DL95EY&link=https%3A%2F%2Fquickai-ashu.vercel.app%2F&design=glass"
     height="245"
     alt="GitHub stats"
 </p>
